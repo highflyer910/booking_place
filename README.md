@@ -1,3 +1,10 @@
-# Booking place
+## Build Setup
 
-Booking website layout. Designed by Jonas Schmedtmann. 
+
+```bash
+# install dependencies
+$ npm install
+
+# launch server
+$npm start
+```
